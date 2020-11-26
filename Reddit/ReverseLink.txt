@@ -1,0 +1,8 @@
+Reddit allows to detect where the links were posted on reddit:
+by entering the link after the reddit.com/ the first match to
+linked post is revealed;
+e.g. 
+https://old.reddit.com/https://www.youtube.com
+The result above will show one of most recent posts where
+https://www.youtube.com was linked and duplicate posts(n)
+with all posts with links to https://www.youtube.com
