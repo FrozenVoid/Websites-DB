@@ -1,0 +1,6 @@
+many websites/browsers colors clash with each other and various theme.
+Problems;
+1.Dark color on dark background.
+2.light color on light background.
+3.same color as background(a bug with themes/css)
+4.White background is too pervasive, electricity and eyesight wasting anti-feature.
