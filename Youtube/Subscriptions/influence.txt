@@ -1,0 +1,6 @@
+Subscription videos often pollute main feed, 
+reccomending videos from subscribed channels that are not
+novel or interesting, often repeatedly.
+Not subscribing to anything and only adding likes is 
+effectivelly deprioritizing 'subscriptions' in favor of
+dynamic reccomendations.
