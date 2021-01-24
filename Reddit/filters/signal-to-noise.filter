@@ -1,3 +1,11 @@
+! Title: Reddit filters - Signal to noise
+! Description: removes media files linked to reddit
+! Expires: 4 days
+! License: https://creativecommons.org/licenses/by/3.0/
+! Homepage: https://github.com/FrozenVoid/Websites-DB/tree/main/Reddit/filters
+! Forums: https://github.com/FrozenVoid/Websites-DB/issues
+
+
 old.reddit.com##div[data-domain="i.redd.it"]
 old.reddit.com##div[data-domain="v.redd.it"]
 old.reddit.com##div[data-domain="i.imgur.com"]
