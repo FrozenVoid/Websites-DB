@@ -1,0 +1,29 @@
+! Title: Reddit filters - compactify
+! Description: Maximize screen use(assuming anonymous browsing)
+! Expires: 4 days
+! License: https://creativecommons.org/licenses/by/3.0/
+! Homepage: https://github.com/FrozenVoid/Websites-DB/tree/main/Reddit/filters
+! Forums: https://github.com/FrozenVoid/Websites-DB/issues
+old.reddit.com##.midcol.unvoted
+old.reddit.com##span.rank
+old.reddit.com###header-img
+old.reddit.com##li.share
+old.reddit.com##.footer-parent
+old.reddit.com##.login-form
+old.reddit.com##.sidebox
+old.reddit.com##a[href$="/gilded"]
+old.reddit.com##a[href$="/gilded/"]
+old.reddit.com##a.thumbnail.default
+old.reddit.com##li.login-required
+old.reddit.com##.hide-button
+old.reddit.com##a.thumbnail:style(width:20vw!important)
+old.reddit.com##a.thumbnail>img:style(width:100%!important;height:100%!important)
+
+old.reddit.com###header:style(background:none!important;height:auto!important)
+old.reddit.com##span.pagename.redditname
+old.reddit.com##.side:style(padding:0!important)
+old.reddit.com##.titlebox h5
+old.reddit.com##.side::before:style( background-image:none!important)
+old.reddit.com##.sitetable::before
+old.reddit.com##.footer-parent
+old.reddit.com##.commentsignupbar
