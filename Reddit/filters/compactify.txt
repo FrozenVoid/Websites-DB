@@ -27,3 +27,7 @@ old.reddit.com##.side::before:style( background-image:none!important)
 old.reddit.com##.sitetable::before
 old.reddit.com##.footer-parent
 old.reddit.com##.commentsignupbar
+old.reddit.com##span.awardings-bar
+
+
+old.reddit.com##div[data-author]:style(border:0.25vh solid red!important)
