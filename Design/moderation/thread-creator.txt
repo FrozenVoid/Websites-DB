@@ -1,0 +1,6 @@
+thread creator moderation is delegation of moderation
+within the thread to the thread creator, reducing
+workload on moderators/admins.
+Usually the thread creator can only 'hide' posts
+and report them for moderator for review, but some designs
+allow deleting user posts.
