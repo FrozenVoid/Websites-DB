@@ -1,0 +1,3 @@
+a design flaw common to pages with absolute width.
+large empty margins on both side waste space
+and force users to scroll longer than normal to read content.
