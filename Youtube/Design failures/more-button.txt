@@ -1,0 +1,5 @@
+synopsis:
+A more button reveals extra text that is 
+1/1000 of the page size or less(the text is already loaded).
+Each comment and description force a user to do an extra click.
+there is no sane reason to hide the extra text.
