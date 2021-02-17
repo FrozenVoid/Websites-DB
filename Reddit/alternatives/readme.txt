@@ -15,4 +15,7 @@ https://hubski.com/ general reddit replacement
 https://lobste.rs/ programming/technology
 http://www.monalo.net link sharing
 https://lemmy.ml/ federated reddit/link aggregator
-
+https://phuks.co/ general reddit alternative
+https://news.ycombinator.com/ programming/tech/startups
+https://slashdot.org/ programming/tech
+https://www.metafilter.com/ blog aggregator discussion
