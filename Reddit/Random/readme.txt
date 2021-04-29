@@ -1,5 +1,5 @@
 A reddit random link leads to non-subscribed subreddit
-chosen from the reddit pool of active subreddits.
+chosen from the reddit pool of active subreddits(5000 top subreddits).
 Random: https://old.reddit.com/r/random/
 NSFW random: https://old.reddit.com/r/randnsfw/
 can be combined with suffixes of a subreddit(random is replaced by subname):
