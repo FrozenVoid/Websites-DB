@@ -1,0 +1,21 @@
+Mass produced accounts(as opposed
+to bought/semi-human accounts
+of dedicated 'AI' agents), will
+have an artificial naming scheme.
+Some signs of bot farms:
+1.Numerical prefixes or suffixes
+that indicate no useful information
+(years, popular numbers,ascii symbols).
+
+2.A use of double word pattern
+with first word/second word combining
+to an artificial-sounding compound.
+
+3.Imitation of popular account names
+with added prefix/suffix.
+
+4.Abudance of similar named
+accounts that fit the naming
+template, e.g. Word-FixedWord-Num
+and FixedWord_Word_num
+
