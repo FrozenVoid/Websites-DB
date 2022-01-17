@@ -1,0 +1,54 @@
+Shills are professional opinion
+shifters that work with bots
+(for karma) and even use 
+hybrid accounts(e.g. bot posts, human
+comments) to maximize effect.
+
+Recognizing shills:
+Shills operate to promote
+a single 'opinion form',
+however (unlike bots) they
+are not bound to it: they
+will posts neutral content
+or scraped newsfeed links for
+filler and karma.
+
+Shills utilize karma boosting from
+bots, often disproportionate to
+their visibility(e.g. early
+large karma, low-traffic but high
+karma comment) to occupy top
+spots in subreddits and comment
+threads.
+
+Shills often use multiple
+ accounts: they can take over
+ bots or bought accounts if 
+ the situation calls for it:
+Often a subreddit post will
+contain a similar reply from
+another account that 'supports' the shill by 
+agreeing or expanding the post,
+this increases engagement by
+creating illusion of 'crowd opinion',
+that shills use to shift topic
+focus and direct to their promoted 
+agenda.
+
+
+Rapid content generation:
+Neural network text generation
+is now being done for seed 
+content, as shills outsource
+'bulk generation' to AI:
+the shill only checks the text
+for consistency and style.
+GPT-3 type networks can be
+trained on specific prompt,
+by feeding an growing series
+of sentences finished by AI:
+e.g. prompt response first
+paragraph used to generated
+ second, then third(until
+ NN starts contradicting itself).
+
