@@ -25,7 +25,20 @@ some content that already exists,
 as bots cannot produce anything
 original(outside of neural
 network commentary trained on
-subreddits) as e.g. self-posts.
+subreddits) as e.g. self-posts(
+NN bots may generate such posts
+however they are limited in
+originality)
+
+Original content:
+Bots can only produce "original
+text" (due Neural Nets being limited
+in image/video generation) that
+is a copy/remix of some earlier posted
+content. A word cannot appear
+in bot-post without it being
+1.prior content
+2.inserted for agenda promotion.
 
 
 
