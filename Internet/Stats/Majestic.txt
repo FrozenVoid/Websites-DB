@@ -1,0 +1,3 @@
+Majestic Million is a list
+of top 1M domains by link rank.
+https://majestic.com/reports/majestic-million?majesticMillionType=2&tld=&oq=
