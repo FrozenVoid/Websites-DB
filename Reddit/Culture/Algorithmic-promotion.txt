@@ -1,0 +1,62 @@
+ Reddit has a certain culture
+ layer that it promotes by 
+ algorithmic means:
+ Usually it boosts marginalized/
+ progressive/controversial viewpoints on popular
+ subreddits and downranks 
+ viewpoints/subreddits that clash
+ with general Reddit crowd opinion
+ as decided by admins: the cultural
+ context is narrowing each year
+ to resrict more subreddits as 
+ reddit reach in social media grows,
+ as its administration power over
+ the communities and their influence
+ is refined by technical means:i.e.
+ alteration of reddit software to
+ promote and demote specific content.
+ 
+ Controversial viewpoints:
+ Reddit rides the balance between
+ being an outrage machine and
+ community cohesion, that make
+ some controversial viewpoints/subreddits/users
+  artificially promoted until
+  they threaten advertising profits or
+ if a controversy threatens 
+ social cohesion of entire reddit
+ community or subverts some
+unwritten social contract that
+admins imagine themselves in, the
+culture is repressed, even if its
+harmless in retrospect: the culture
+of administration and reddit at large
+eventually aligns and 'allowed'
+window of expression is explicitly
+reduced by new rules and regulations,
+with attempts to reintroduce a banned
+subreddit viewed as assault on
+reddit's mainstream culture.
+
+Bypassing 'reddit cultural limits':
+Visual media isn't understood well
+by the reddit scanning only 
+titles(which can be very vague)
+,comment text and likely OCR of
+image macro text(popular posts
+are a small fraction of all images), which would fail
+in purely visual content such
+as videos posted on reddit.
+
+User tracking:
+Reddit classifies user's culture
+and their alignment to mainstream
+reddit consumer culture as a risk
+factor: this is taken from user
+posts and subscriptions to build
+a picture of 'subreddit culture'
+as linked to other parts of reddit,
+e.g https://subredditstats.com/subreddit-user-overlaps/pics
+
+
+ 
