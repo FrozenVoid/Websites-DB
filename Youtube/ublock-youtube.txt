@@ -4,3 +4,4 @@ www.youtube.com##.ytp-caption-segment:style(font-size:2cm!important;background-c
 
 www.youtube.com##h3.ytd-rich-grid-media:style(max-height:100%!important)
 www.youtube.com##body:style(margin:0!important)
+www.youtube.com##button[aria-pressed="true"] svg:style(fill:red!important ; transform: scale(3)!important;)
