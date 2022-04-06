@@ -1,0 +1,2 @@
+www.youtube.com###columns.ytd-watch-flexy:style(max-width:none!important)
+www.youtube.com###primary.ytd-watch-flexy:style(max-width:none!important)
