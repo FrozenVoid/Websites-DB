@@ -1,2 +1,6 @@
 www.youtube.com###columns.ytd-watch-flexy:style(max-width:none!important)
 www.youtube.com###primary.ytd-watch-flexy:style(max-width:none!important)
+www.youtube.com##.ytp-caption-segment:style(font-size:2cm!important;background-color:black!important)
+www.youtube.com##ytd-rich-grid-media:style(max-height:100vh!important)
+www.youtube.com##h3.ytd-rich-grid-media:style(max-height:100%!important)
+www.youtube.com##body:style(margin:0!important)
