@@ -1,0 +1,1 @@
+github.com##.container-xl:style(max-width:none!important)
