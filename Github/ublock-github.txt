@@ -1,1 +1,2 @@
 github.com##.container-xl:style(max-width:none!important)
+github.com##.container-lg:style(max-width:none!important)
