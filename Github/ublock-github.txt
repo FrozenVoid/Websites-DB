@@ -1,3 +1,4 @@
 github.com##.container-xl:style(max-width:none!important)
 github.com##.container-lg:style(max-width:none!important)
 github.com##.SelectMenu-modal:style(width:40vw!important;)
+github.com##svg.octicon:style(transform:scale(3)!important)
