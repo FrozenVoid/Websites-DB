@@ -3,7 +3,6 @@ www.tiktok.com##div[class*=DivBottomContainer]
 www.tiktok.com##div[class*=DivHeaderContainer]
 www.tiktok.com##div[class*=DivTextInfoContainer]
 www.tiktok.com##div[class*=SpanAvatarContainer]
-DivVideoPlayerContainer
 www.tiktok.com##div[class*=DivVideoCardContainer]:style(max-width:100vw!important;width:100vw!important;height:100vh!important;margin-top:-3vh!important)
 www.tiktok.com##div[class*=DivMainContainer]:style(max-width:100vw!important;margin:0!important;width:100vw!important)
 www.tiktok.com##div[class*=DivBodyContainer]:style(max-width:100vw!important;)
