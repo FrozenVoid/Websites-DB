@@ -1,3 +1,4 @@
+www.tiktok.com##div[class*=DivFrameWrapper]
 www.tiktok.com##div[class*=DivSideNavContainer]
 www.tiktok.com##div[class*=DivBottomContainer]
 www.tiktok.com##div[class*=DivHeaderContainer]
