@@ -1,0 +1,17 @@
+www.tiktok.com##div[class*=DivSideNavContainer]
+www.tiktok.com##div[class*=DivBottomContainer]
+www.tiktok.com##div[class*=DivHeaderContainer]
+www.tiktok.com##div[class*=DivTextInfoContainer]
+www.tiktok.com##div[class*=SpanAvatarContainer]
+DivVideoPlayerContainer
+www.tiktok.com##div[class*=DivVideoCardContainer]:style(max-width:100vw!important;width:100vw!important;height:100vh!important;margin-top:-3vh!important)
+www.tiktok.com##div[class*=DivMainContainer]:style(max-width:100vw!important;margin:0!important;width:100vw!important)
+www.tiktok.com##div[class*=DivBodyContainer]:style(max-width:100vw!important;)
+www.tiktok.com##div[class*=DivItemContainer]:style(max-width:100vw!important;margin:0!important)
+www.tiktok.com##div[class*=DivVideoWrapper]:style(max-width:100vw!important;margin:0!important;width:100vw!important;height:100%!important)
+www.tiktok.com##div[class*=DivBasicPlayerWrapper]:style(max-width:100vw!important;margin:0!important;width:100vw!important;height:100%!important)
+www.tiktok.com##div[class*=DivContentContainer]:style(max-width:100vw!important;margin:0!important;display:inline!important;margin-left:0!important;width:100vw!important;height:100%!important)
+www.tiktok.com##div[class*=DivActionItemContainer]
+www.tiktok.com##canvas:style(max-height:100vh!important;margin:0!important;height:100vh!important)
+ www.tiktok.com##video:style(max-height:100%!important;margin:0!important;height:100vh!important)
+ www.tiktok.com##div[class*=DivItemContainer]:style(height:100vh!important)
