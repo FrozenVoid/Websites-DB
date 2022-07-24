@@ -1,0 +1,42 @@
+! deviantart CSS
+www.deviantart.com###gallection-list-menu:upward(2)  *:style(max-width:none!important;overflow:visible!important)
+www.deviantart.com##div[data-hook="art_stage"]:upward(1):style(width:100vw!important;max-height:none!important;height:auto!important;)
+www.deviantart.com##div[data-hook="art_stage"]:upward(2):style(width:100vw!important;max-height:none!important;height:auto!important;)
+www.deviantart.com##div[data-hook="art_stage"]:style(width:100vw!important;max-height:none!important;height:auto!important;padding:0!important)
+www.deviantart.com##div[data-hook="art_stage"] div:style(width:100vw!important;max-height:none!important;height:auto!important)
+www.deviantart.com##div[data-hook="art_stage"] div[style]:style(max-height:none!important;width:100vw!important;height:auto!important)
+
+www.deviantart.com##section[ data-hook="action_bar"]:style(background-color:transparent!important;margin-top:5vh!important;align-items: flex-end!important)
+www.deviantart.com##div[draggable="true"]>img[aria-hidden]:style(image-rendering: high-quality;width:100vw!important;height:auto!important)
+www.deviantart.com###decription:style(width:100%!important;height:auto!important)
+www.deviantart.com##div[data-hook="deviation_meta"]:upward(1):style(width:100%!important;height:auto!important)
+www.deviantart.com##div[data-hook="deviation_meta"]:style(width:100%!important;height:auto!important)
+www.deviantart.com###decription:upward(2):style(width:100%!important;height:auto!important)
+www.deviantart.com##div[data-hook="comment_editor"] textarea:upward(1):style(;;width:100%!important;height:60vh!important)
+www.deviantart.com##div[data-hook="comment_editor"] textarea:style(;width:100%!important;height:60vh!important)
+www.deviantart.com##div[data-hook="comment_editor"] :style(;width:100%!important;height:60vh!important)
+www.deviantart.com##div[aria-owns="commentbox-suggestions-menu"]:upward(1)
+www.deviantart.com###comments:upward(2)>div:style(width:100%!important;height:auto!important)
+www.deviantart.com###comments:upward(1)>div:style(width:100%!important;height:auto!important)
+www.deviantart.com###decription:upward(1):style(width:100%!important;height:auto!important)
+
+www.deviantart.com##section span:style(overflow:visible!important)
+www.deviantart.com##iframe
+www.deviantart.com##section>  div:style(width:100%!important)
+www.deviantart.com##[data-max-width]:style(width:auto!important;max-height:none!important)
+www.deviantart.com##div[role="dialog"]:style(width:100%!important)
+www.deviantart.com##span:has-text(Free Trial):upward(1)
+www.deviantart.com##span:has-text(a limited time)
+www.deviantart.com##span:has-text(Core Membership)
+www.deviantart.com##main>div>div[role="complementary"]:style(;width:100%!important)
+www.deviantart.com##main a[data-hook="deviation_link"]:style(width:25vw!important;height:25vw!important)
+www.deviantart.com##main a[data-hook="deviation_link"] div :style(width:100%!important;height:100%!important)
+www.deviantart.com##main a[data-hook="deviation_link"] img[alt]:style(width:100%!important;height:100%!important;image-rendering: high-quality;)
+www.deviantart.com##a[href="https://www.deviantart.com/core-membership"]
+www.deviantart.com##a[href^="https://www.deviantart.com/print"]
+
+www.deviantart.com##form[action="https://www.deviantart.com/search"]:style(width:100%!important)
+www.deviantart.com##footer[role="contentinfo"]>div:nth-of-type(2)
+
+www.deviantart.com##div[id*=popper-portal]>div[data-popper-escaped]:style(;width:100%!important)
+www.deviantart.com##div[id*=popper-portal]>div[data-popper-escaped] section:style(height:100vh!important;width:100vw!important)
