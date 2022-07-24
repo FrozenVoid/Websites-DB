@@ -1,4 +1,5 @@
 ! deviantart CSS
+www.deviantart.com##a[href$="/subscriptions"]:upward(2)
 www.deviantart.com###gallection-list-menu:upward(2)  *:style(max-width:none!important;overflow:visible!important)
 www.deviantart.com##div[data-hook="art_stage"]:upward(1):style(width:100vw!important;max-height:none!important;height:auto!important;)
 www.deviantart.com##div[data-hook="art_stage"]:upward(2):style(width:100vw!important;max-height:none!important;height:auto!important;)
