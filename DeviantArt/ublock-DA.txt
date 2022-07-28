@@ -22,7 +22,7 @@ www.deviantart.com###comments:upward(1)>div:style(width:100%!important;height:au
 www.deviantart.com###decription:upward(1):style(width:100%!important;height:auto!important)
 
 www.deviantart.com##section span:style(overflow:visible!important)
-www.deviantart.com##iframe
+www.deviantart.com##iframe:not(.never-hide-me)
 www.deviantart.com##section>  div:style(width:100%!important)
 www.deviantart.com##[data-max-width]:style(width:auto!important;max-height:none!important)
 www.deviantart.com##div[role="dialog"]:style(width:100%!important)
@@ -39,5 +39,4 @@ www.deviantart.com##a[href^="https://www.deviantart.com/print"]
 www.deviantart.com##form[action="https://www.deviantart.com/search"]:style(width:100%!important)
 www.deviantart.com##footer[role="contentinfo"]>div:nth-of-type(2)
 
-www.deviantart.com##div[id*=popper-portal]>div[data-popper-escaped]:style(;width:100%!important)
-www.deviantart.com##div[id*=popper-portal]>div[data-popper-escaped] section:style(height:100vh!important;width:100vw!important)
+
