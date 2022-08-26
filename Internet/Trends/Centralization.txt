@@ -1,0 +1,50 @@
+Internet is getting more centralized due several
+factors that most users are rarely aware of.
+
+1.Cost of hosting:
+A.media file hosting has been
+dominated by large websites that can afford bandwidth
+costs: such costs have not significantly decreased
+for affordable website hosting, forcing dependence 
+on cloud storage.
+
+B.User-content hosting has been dominated
+by large social media networks that can afford 
+to moderate mass content and respond to legal challenges.
+The larger a website grows the more legal/social
+responsibility it accrues from its influence,
+making the idea of neutral hosting impossible to
+comply without investment in moderation:
+user-moderated websites cannot moderate themselves
+effectively without risks to website itself.
+
+C.Social messaging systems have been converging
+to few corporate networks that could handle the
+strain of real-time media(voice/video) bandwidth,
+with P2P networks limited due assymetric 
+upload rates and usage caps dictated by ISPs 
+that prioritize content consumption vs distribution.
+
+2.Lack of Anonymity in Peer To Peer networks:
+The current P2P networks leave users vulnerable
+to malicious attacks and surveillance from governments,
+copyright holders and ISPs. Performance of Peer to Peer
+downloads and elitist culture of P2P have driven casual users
+to centralized content farms and file hosting websites.
+The anonymizing 'darknet' networks suffer
+from further bandwidth handicaps and low
+user adoption, which is detrimental to 
+any large-scale project or website.
+
+
+3.Lack of stability: websites run by 
+personal hosting and small business can abruptly
+expire or close down, making their content disappear.
+Users tend to appreciate stability and safety of
+large websites where dependencies of content hosting
+are future-proof and handled with attention.
+Hosting and bandwidth use are usually a significant
+factor in small websites reccurring cost, making
+them depend on advertisements, donations or secondary
+services that all require community support.
+
